@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47ef46219e838b7478b02c43f2508d26
+timeCreated: 1520519803
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - poisonEffect: {fileID: 224412303903300196, guid: 7909ee71a9cc31f46a1664d8c83df6af,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
